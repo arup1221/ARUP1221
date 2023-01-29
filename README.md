@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arupgope017" target="blank"><img src="https://img.shields.io/twitter/follow/arupgope017?logo=twitter&style=for-the-badge" alt="arupgope017" /></a> </p>
 
-- 🌱 I’m currently learning **java and DSA, fronted development and DevOpps**
+- 🌱 I’m currently learning **java and DSA, Web development and DevOpps**
 
 - 📫 How to reach me **gopea999@gmail.com**
 
