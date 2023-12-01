@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm ARUP GOPE</h1>
-<h3 align="center">A passionate FullStack developer (Nextjs + Django) from India</h3>
+<h3 align="center">A passionate FullStack developer (Nextjs + Django) and Devops learner from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arup1221&label=Profile%20views&color=0e75b6&style=flat" alt="arup1221" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/arupgope017" target="blank"><img src="https://img.shields.io/twitter/follow/arupgope017?logo=twitter&style=for-the-badge" alt="arupgope017" /></a> </p>
 
-- 🌱 I’m currently learning **DSA(using JAVA), ReactJS, Tailwind CSS and Golang  **
+- 🌱 I’m currently learning **kubernetes and Devops Tools**
 
 - 📫 How to reach me **gopea999@gmail.com**
 
