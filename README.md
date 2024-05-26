@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arupgope017" target="blank"><img src="https://img.shields.io/twitter/follow/arupgope017?logo=twitter&style=for-the-badge" alt="arupgope017" /></a> </p>
 
-- 🌱 I’m currently learning **kubernetes and Devops Tools**
+- 🌱 I’m currently learning **Frontend with NextJs and Backend with Django Rest Framework**
 
 - 📫 How to reach me **gopea999@gmail.com**
 
@@ -21,6 +21,41 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://github.com/arup1221/ReactNew/blob/main/nextjs.png"
+    alt="nextjs"
+    width="40"
+    height="40"
+  />
+</a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn-images.threadless.com/threadless-media/artist_shops/shops/django/profile/about/bio-1493755518-02711c2cf037c786ebb844af1328f809.png?v=3&d=eyJvcHMiOiBbWyJyZXNpemUiLCBbNTAwXSwge31dXSwgImZvcmNlIjogZmFsc2UsICJvbmx5X21ldGEiOiBmYWxzZX0="
+    alt="django"
+    width="40"
+    height="40"
+    style="background-color: white; padding: 5px; border-radius: 5px;"
+  />
+</a>
+<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png"
+    alt="django rest framework"
+    width="60"
+    height="40"
+    style="background-color: white; padding: 5px; border-radius: 5px;"
+  />
+</a>
+
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
@@ -62,22 +97,7 @@
       height="40"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://github.com/arup1221/ReactNew/blob/main/nextjs.png"
-    alt="nextjs"
-    width="40"
-    height="40"
-  />
-</a>
+
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
@@ -179,7 +199,7 @@
     src="https://www.svgrepo.com/show/303251/mysql-logo.svg"
     alt="mysql"
     width="60"
-    height="60"
+    height="40"
   />
 </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
