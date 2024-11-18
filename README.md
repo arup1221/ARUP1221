@@ -15,8 +15,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
-<a href="https://twitter.com/arupgope017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arupgope017" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/arup-gope-ba0b3322b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arup gope" height="30" width="40" /></a>
+<a href="https://twitter.com/arupgope017" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arupgope017" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/arup-gope-ba0b3322b/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arup gope" height="30" width="40" />
+</a>
+    <a href="https://leetcode.com/u/ARUP1221/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arup gope leetcode" height="30" width="40" />
+  </a>
+  <a href="https://arup-gope-portfolio.vercel.app/" target="blank">
+    <img align="center" src="https://www.kindpng.com/picc/m/394-3941580_portfolio-circle-hd-png-download.png" alt="arup gope portfolio" height="30" width="80" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
