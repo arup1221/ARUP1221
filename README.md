@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arupgope017" target="blank"><img src="https://img.shields.io/twitter/follow/arupgope017?logo=twitter&style=for-the-badge" alt="arupgope017" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend with NextJs and Backend with Django Rest Framework**
+- 🌱 I’m currently working on **Gen AI and Agentic AI Projects.** Fell free to reach.
 
 - 📫 How to reach me **gopea999@gmail.com**
 
