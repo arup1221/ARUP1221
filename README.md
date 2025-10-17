@@ -225,4 +225,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arup1221&" alt="arup1221" /></p>
 
+### 🏆 Hacktoberfest Achievements
+
+Proud participant of Hacktoberfest! 
+
+
  [![@arup's Holopin board](https://holopin.me/arup)](https://holopin.io/@arup)
