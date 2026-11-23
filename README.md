@@ -63,7 +63,7 @@ class ArupGope:
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,vite,vue,svelte,astro&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,vite,astro&theme=dark" />
 </p>
 
 ### ⚙️ Backend
@@ -78,12 +78,12 @@ class ArupGope:
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,vercel,cloudflare,terraform,githubactions,nginx,linux,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,vercel,cloudflare,githubactions,nginx,linux,git,github&theme=dark" />
 </p>
 
 ### 📈 Observability, Testing & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus,jest,vitest,cypress,postman,figma,vscode,npm,pnpm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,jest,vitest,postman,figma,vscode,npm,pnpm&theme=dark" />
 </p>
 
 ---
