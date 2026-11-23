@@ -1,229 +1,132 @@
 
-<h1 align="center">Hi 👋, I'm ARUP GOPE</h1>
-<h3 align="center">A passionate FullStack developer  and Gen AI / Agentic AI learner from India</h3>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arup1221&label=Profile%20views&color=0e75b6&style=flat" alt="arup1221" /> </p> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Arup%20Gope&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Gen%20AI%20%26%20Agentic%20AI%20Builder&descSize=18&descAlignY=60" alt="header" />
 
-<p align="left"> <a href="https://twitter.com/arupgope017" target="blank"><img src="https://img.shields.io/twitter/follow/arupgope017?logo=twitter&style=for-the-badge" alt="arupgope017" /></a> </p>
-
-- 🌱 I’m currently working on **Gen AI and Agentic AI Projects.**
-
-- 📫 How to reach me **gopea999@gmail.com**
-
-- ⚡ Fun fact **I think I'm funny😊😊**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left" >
-<a href="https://twitter.com/arupgope017" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arupgope017" height="30" width="40" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+products+end+to+end+%F0%9F%9A%80;Full-Stack+%7C+Next.js+%7C+FastAPI+%7C+TypeScript;Exploring+LLMs%2C+RAG+%26+Agentic+Workflows+%F0%9F%A4%96;Turning+ideas+into+shipped+software+%E2%9A%A1" alt="Typing SVG" />
 </a>
-<a href="https://www.linkedin.com/in/arup-gope-ba0b3322b/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arup gope" height="30" width="40" />
-</a>
-    <a href="https://leetcode.com/u/ARUP1221/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arup gope leetcode" height="30" width="40" />
-  </a>
-  <a href="https://arup-gope-portfolio.vercel.app/" target="blank">
-    <img align="center" src="https://www.kindpng.com/picc/m/394-3941580_portfolio-circle-hd-png-download.png" alt="arup gope portfolio" height="30" width="80" />
-  </a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=arup1221&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+<a href="https://twitter.com/arupgope017"><img src="https://img.shields.io/twitter/follow/arupgope017?logo=twitter&style=flat-square" alt="twitter" /></a>
+<a href="https://github.com/arup1221?tab=followers"><img src="https://img.shields.io/github/followers/arup1221?logo=github&style=flat-square" alt="followers" /></a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```python
+class ArupGope:
+    role        = "Full-Stack Developer & Technical Lead"
+    education   = "B.Tech, Computer Science Engineering (2025)"
+    location    = "West Bengal, India 🇮🇳"
+    currently   = ["Building Gen AI & Agentic AI projects", "Shipping with Next.js + TypeScript"]
+    learning    = ["LangGraph", "Multi-agent systems", "MCP (Model Context Protocol)", "RAG & evals"]
+    fun_fact    = "I think I'm funny 😄 (results may vary)"
+
+    def say_hi(self):
+        return "Let's build something awesome together!"
+```
+
+- 🌱 Currently working on **Gen AI and Agentic AI projects**
+- 🧠 Leading frontend and full-stack work across multiple products
+- 📫 Reach me at **gopea999@gmail.com**
+- ⚡ Open to collaborations, ideas, and good conversations
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 Gen AI & Agentic AI
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6E56CF?style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://github.com/arup1221/ReactNew/blob/main/nextjs.png"
-    alt="nextjs"
-    width="40"
-    height="40"
-  />
-</a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://cdn-images.threadless.com/threadless-media/artist_shops/shops/django/profile/about/bio-1493755518-02711c2cf037c786ebb844af1328f809.png?v=3&d=eyJvcHMiOiBbWyJyZXNpemUiLCBbNTAwXSwge31dXSwgImZvcmNlIjogZmFsc2UsICJvbmx5X21ldGEiOiBmYWxzZX0="
-    alt="django"
-    width="40"
-    height="40"
-    style="background-color: white; padding: 5px; border-radius: 5px;"
-  />
-</a>
-<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png"
-    alt="django rest framework"
-    width="60"
-    height="40"
-    style="background-color: white; padding: 5px; border-radius: 5px;"
-  />
-</a>
-
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-      alt="go"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-      alt="kubernetes"
-      width="40"
-      height="40"
-    />
-  </a>
-
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
- 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://appwrite.io/" target="_blank" rel="noreferrer">
-  <img
-    src="https://icon.icepanel.io/Technology/svg/Appwrite.svg"
-    alt="appwrite"
-    width="40"
-    height="40"
-  />
-</a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-      alt="redis"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.svgrepo.com/show/303251/mysql-logo.svg"
-    alt="mysql"
-    width="60"
-    height="40"
-  />
-</a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
-      alt="redux" 
-      width="40" 
-      height="40"/> 
-  </a> 
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite,html,css&theme=dark" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arup1221&show_icons=true&locale=en&layout=compact" alt="arup1221" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arup1221&show_icons=true&locale=en" alt="arup1221" /></p>
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,nodejs,express,go,java,graphql&theme=dark" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arup1221&" alt="arup1221" /></p>
+### 🗄️ Databases & Storage
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,prisma,firebase,appwrite&theme=dark" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,githubactions,nginx,linux,git,github&theme=dark" />
+</p>
+
+---
+
+## 🚀 What I'm Focused On
+
+| Area | What I'm exploring |
+|------|--------------------|
+| 🤖 **Agentic AI** | Tool-using agents, multi-agent orchestration, MCP servers |
+| 📚 **RAG** | Vector search, chunking strategies, retrieval evals |
+| ⚡ **Modern Web** | Next.js App Router, Server Components, streaming UIs |
+| 🏗️ **Architecture** | Clean API design, auth layers, scalable full-stack systems |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=arup1221&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arup1221&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=arup1221&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arup1221&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arup1221&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arup-gope-ba0b3322b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://arup-gope-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/ARUP1221/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://twitter.com/arupgope017"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:gopea999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
+
+</div>
 
 ### 🏆 Hacktoberfest Achievements
 
