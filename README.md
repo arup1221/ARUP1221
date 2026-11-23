@@ -1,8 +1,7 @@
-
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Arup%20Gope&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Gen%20AI%20%26%20Agentic%20AI%20Builder&descSize=18&descAlignY=60" alt="header" />
+<img src="./assets/header.svg" alt="Arup Gope - Full-Stack Developer, Gen AI and Agentic AI Builder" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+products+end+to+end+%F0%9F%9A%80;Full-Stack+%7C+Next.js+%7C+FastAPI+%7C+TypeScript;Exploring+LLMs%2C+RAG+%26+Agentic+Workflows+%F0%9F%A4%96;Turning+ideas+into+shipped+software+%E2%9A%A1" alt="Typing SVG" />
@@ -11,7 +10,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=arup1221&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
-<a href="https://twitter.com/arupgope017"><img src="https://img.shields.io/twitter/follow/arupgope017?logo=twitter&style=flat-square" alt="twitter" /></a>
+<a href="https://twitter.com/arupgope017"><img src="https://img.shields.io/badge/Twitter-@arupgope017-1DA1F2?logo=twitter&logoColor=white&style=flat-square" alt="twitter" /></a>
 <a href="https://github.com/arup1221?tab=followers"><img src="https://img.shields.io/github/followers/arup1221?logo=github&style=flat-square" alt="followers" /></a>
 
 </div>
@@ -26,7 +25,7 @@ class ArupGope:
     education   = "B.Tech, Computer Science Engineering (2025)"
     location    = "West Bengal, India 🇮🇳"
     currently   = ["Building Gen AI & Agentic AI projects", "Shipping with Next.js + TypeScript"]
-    learning    = ["LangGraph", "Multi-agent systems", "MCP (Model Context Protocol)", "RAG & evals"]
+    learning    = ["Rust", "LangGraph", "Multi-agent systems", "MCP (Model Context Protocol)", "RAG & evals"]
     fun_fact    = "I think I'm funny 😄 (results may vary)"
 
     def say_hi(self):
@@ -42,6 +41,11 @@ class ArupGope:
 
 ## 🛠️ Tech Stack
 
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,go,java,bash,html,css&theme=dark" />
+</p>
+
 ### 🤖 Gen AI & Agentic AI
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -53,25 +57,33 @@ class ArupGope:
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6E56CF?style=for-the-badge" />
 </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+</p>
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,vite,vue,svelte,astro&theme=dark" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,nodejs,express,go,java,graphql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,bun,deno,fastapi,django,flask,rust,go,graphql&theme=dark" />
 </p>
 
-### 🗄️ Databases & Storage
+### 🗄️ Databases & Messaging
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,prisma,firebase,appwrite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,supabase,prisma,firebase,appwrite,elasticsearch,kafka,rabbitmq&theme=dark" />
 </p>
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,githubactions,nginx,linux,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,vercel,cloudflare,terraform,githubactions,nginx,linux,git,github&theme=dark" />
+</p>
+
+### 📈 Observability, Testing & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,jest,vitest,cypress,postman,figma,vscode,npm,pnpm&theme=dark" />
 </p>
 
 ---
@@ -102,14 +114,6 @@ class ArupGope:
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arup1221&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -124,7 +128,7 @@ class ArupGope:
 
 *"First, solve the problem. Then, write the code."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
+<img src="./assets/footer.svg" alt="footer" width="100%" />
 
 </div>
 
