@@ -21,7 +21,7 @@
 
 ```python
 class ArupGope:
-    role        = "Full-Stack Developer & Technical Lead"
+    role        = "Full-Stack Developer + AI Engineer"
     education   = "B.Tech, Computer Science Engineering (2025)"
     location    = "West Bengal, India 🇮🇳"
     currently   = ["Building Gen AI & Agentic AI projects", "Shipping with Next.js + TypeScript"]
